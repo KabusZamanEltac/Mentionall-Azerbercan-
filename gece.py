@@ -1,7 +1,7 @@
 #################################
 # Gece kuşu Tagger Bot #
 #################################
-# Repo Sahibi - mutsuz_panda 
-# Telegram - t.me/Richard_Ramirezz
-# Telegram - t.me/mutsuz_panda 
+# Repo Sahibi - ismiyev95 
+# Telegram - t.me/WerabliAnlar
+# Telegram - t.me/ismiyev95 
 ##################################
